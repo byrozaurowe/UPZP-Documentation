@@ -33,7 +33,7 @@ Kod został napisany w języku Java z wykorzystaniem narzędzia Maven.
 ![Diagram klas](Diagram_klas_serwer.png)
 
 ## Instalacja i uruchomienie
-Aplikacja została przetestowana pod systemem 18.04.4. Do uruchomienia projektu zalecane jest zainstalowanie zintegrowanego środowiska programistycznego dla Javy np. Intellij lub Eclipse, alternatywnie w konsoli linuxa:
+Aplikacja została przetestowana pod systemem Ubuntu 18.04.4. Do uruchomienia projektu zalecane jest zainstalowanie zintegrowanego środowiska programistycznego dla Javy np. Intellij lub Eclipse, alternatywnie w konsoli linuxa:
 ```
 $ cd sudo apt-get install openjdk-8-jdk
 $ java -jar server.jar
