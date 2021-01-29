@@ -6,4 +6,4 @@ Główne tabele to: auth_user(prywatne informacje użytkownika), stat_map_game(w
 
 Aby uprościć pracę z bazą danych, stworzono funkcje logowania i dodawania statystyk.
 
-Baza znajduje się w Google Cloud. Połączenie z bazą danych odbywa się za pomocą certyfikatów SSL. Baza danych jest bezpośrednio połączona ze stroną, znajdują się w jednym projekcie w Google Cloud. Z backendą połączenie jest nawiązywane za pomocą jdbc: mysql, w tym celu podano wszystkie szczegóły połączenia: Host, Port, User, Pass.
+Baza znajduje się w Google Cloud. Połączenie z bazą danych odbywa się za pomocą certyfikatów SSL. Baza danych jest bezpośrednio połączona ze stroną, znajdują się w jednym projekcie w Google Cloud. Połączenie z backendem jest nawiązywane za pomocą jdbc: mysql, w tym celu podano wszystkie szczegóły połączenia: Host, Port, User, Pass.
