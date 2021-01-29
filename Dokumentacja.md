@@ -6,7 +6,7 @@
   * [Frontend](Frontend.md)
   * [Główny serwer](GlownySerwer.md)
   * [Podproces](Podproces.md)
-  * [Statystyki](https://github.com/RideTheSkyP/Team-project-MMO-RPG-Website.git/docs/stats-readme.md)
+  * [Statystyki](https://github.com/RideTheSkyP/Team-project-MMO-RPG-Website/blob/master/docs/stats-readme.md)
 * [Instalacja i uruchomienie](#instalacja-i-uruchomienie)
 
 ## Opis
