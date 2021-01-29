@@ -15,7 +15,7 @@ Komunikacja z frontendem, czyli wieloma klientami, odbywa się za pomocą serwer
 ![Diagram przepływu](Diagram_serwer_front.png)
 
 ### Komunikacja z podprocesem
-Komunikacja z podprocesem, czyli wieloma trwającymi rozgrywkami, odbywa się za pomocą serwera typu non-blocking poprzez protokół TCP. Synchronizacja non-blocking zapewnia obsługę wielu wątków równocześnie oraz odporność na zakleszczenie.
+Komunikacja z podprocesem, czyli wieloma trwającymi rozgrywkami, odbywa się za pomocą serwera typu non-blocking poprzez protokół TCP. Synchronizacja non-blocking zapewnia obsługę wielu wątków równocześnie oraz odporność na zakleszczenie. Serwer uruchamia kolejne rozgrywki oraz obsługuje ich zakończenie i opuszczanie gry przez graczy.
 
 ### Komunikacja z bazą danych
 Komunikacja z bazą danych odbywa się za pomocą interfejsu JDBC. Z bazy pobierane sa informacje podczas logowania oraz do bazy zapisywane są informacje nt. powstających poczekalni. 
