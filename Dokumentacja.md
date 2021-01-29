@@ -16,4 +16,4 @@ UPZP jest drużynową grą MMO, bazującą na danych z OpenStreetMap. Polega na 
 Do serializacji danych przesyłanych pomiędzy klientem, serwerem i podprocesem została wykorzytsana biblioteka FlatBuffers. Więcej informacji [tutaj](https://google.github.io/flatbuffers/).
 
 ## Protokół komunikacji
-Schemat protokołu komunikacji pomiędzy klientem, serwerem i podprocesem znajduje się [tutaj](Protoko_komunikacji.pdf). Natomiast wersje protokołu [tutaj](versions.txt).
+Schemat protokołu komunikacji pomiędzy klientem, serwerem i podprocesem znajduje się [tutaj](Protoko_komunikacji.pdf), natomiast wersje protokołu [tutaj](versions.txt).
