@@ -7,6 +7,7 @@
   * [Główny serwer](GlownySerwer.md)
   * [Podproces](Podproces.md)
   * [Statystyki](https://github.com/RideTheSkyP/Team-project-MMO-RPG-Website/blob/master/docs/stats-readme.md)
+  * [Baza danych](Baza.md)
 * [Serializacja](#serializacja)
 * [Protokół komunikacji](#protokół-komunikacji)
 
