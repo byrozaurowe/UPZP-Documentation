@@ -3,6 +3,7 @@
 * [Komponenty podprocesu](#komponenty-podprocesu)
 * [Diagram klas](#diagram-klas)
 * [Diagram przepływu](#diagram-przepływu)
+* [Kompilacja i uruchomienie](https://github.com/MarcelDudek/UPZP-GameProcess/blob/master/readme.md)
 
 ## Komponenty podprocesu
 
