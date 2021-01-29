@@ -11,7 +11,7 @@
 
 ### Komunikacja z frontendem
 Komunikacja z frontendem, czyli wieloma klientami odbywa się za pomocą serwera typu non-blocking poprzez protokół TCP. Synchronizacja non-blocking zapewnia obsługę wielu wątków równocześnie oraz odporność na zakleszczenie.
-![Diagram przepływu](Diagram_przepływu_całość.png)
+![Diagram przepływu](Diagram_serwer_front.png)
 
 ### Komunikacja z podprocesem
 
