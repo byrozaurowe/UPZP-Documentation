@@ -1,9 +1,11 @@
 # Podproces 
-* [Komponenty podprocesu](komponenty-podprocesu)
-* [Diagram klas](diagram-klas)
-* [Diagram przepływu](diagram-przepływu)
+
+* [Komponenty podprocesu](#komponenty-podprocesu)
+* [Diagram klas](#diagram-klas)
+* [Diagram przepływu](#diagram-przepływu)
 
 ## Komponenty podprocesu
+
 * #### Komunikacja z głównym procesem backendu
 Odpowiada ze przyjmowanie i wysyłanie informacji o klientach i grze między głównym procesem i podprocesem backendu. Komunikacja ta odbywa się poprzez protokół TCP.
 * #### Komunikacja z klientami 
@@ -15,8 +17,10 @@ Każda z tych części działa na osobnym wątku programu. Zależności między 
 ![Diagram komponentów](Diagram_komponentow.png)
 
 ## Diagram klas
+
 ![Diagram klas](Diagram_klas.png)
 
 ## Diagram przepływu
+
 Diagram przepływu danych pomiędzy podprocesem, serwerem głównym i klientem
 ![Diagram przepływu](Diagram_komunikacji_podproces_serwer_klient.png)
